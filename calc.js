@@ -1,3 +1,3 @@
 linha // calculo de juros
-return c * i / 12;
+return (c * i) / 100;
 
